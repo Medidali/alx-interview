@@ -57,3 +57,4 @@ def validUTF8(data):
             continue
         return('False')
     return('True')
+    
